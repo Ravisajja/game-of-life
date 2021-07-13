@@ -27,6 +27,7 @@ Ideal for developers, software architects, and project managers, Jenkins: The De
  - Implement automated deployment and continuous delivery
  - Implement Day build
  - To test gol insurefire
+ - To test pipeline
 
 ## The author
 
